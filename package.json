@@ -1,0 +1,9 @@
+{
+	"uid": "https://github.com/sourcemint/pm-rsync/",
+	"name": "sourcemint-pm-rsync",
+	"version": "0.1.0",
+    "pm": "npm",
+	"dependencies": {
+        "sourcemint-util-js": "0.1.x"
+    }
+}
